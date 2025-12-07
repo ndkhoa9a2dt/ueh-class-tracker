@@ -7,6 +7,7 @@ import AdminDashboard from './pages/AdminDashboard';
 import Layout from './components/Layout';
 
 function App() {
+  console.log("App đã cập nhật v2");
   const [user, setUser] = useState<User | null>(null);
   const [currentView, setCurrentView] = useState<ViewState>('LOGIN');
 

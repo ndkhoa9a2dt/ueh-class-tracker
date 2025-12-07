@@ -101,4 +101,4 @@ export const MOCK_CLASS_INFO: ClassCourseInfo[] = [
 ];
 
 export const SKILL_OPTIONS = ['Nghe', 'Nói', 'Đọc', 'Viết', 'Ngữ pháp', 'Từ vựng'];
-export const API_URL = "https://script.google.com/macros/s/AKfycbx9TqzsHBiJYLF3aYTst5JCPTutPY1d-sMWeunKA10SrV55Bi35Lm4e4HaTA2G6c2knxA/exec"
+export const API_URL = "https://script.google.com/macros/s/AKfycbx9TqzsHBiJYLF3aYTst5JCPTutPY1d-sMWeunKA10SrV55Bi35Lm4e4HaTA2G6c2knxA/exec";
